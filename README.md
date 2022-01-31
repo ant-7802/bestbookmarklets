@@ -4,4 +4,4 @@ first press Ctrl+Shift+O or press the three vertical dots in the corner of your 
 go to the three dots in the corner of the Bookmark Manager and press Import Bookmarks<br>
 import the bestbookmarklets file and you should be good to go, enjoy :D 
 
-<a href="/path/to/your/receipt.pdf" download>Download Receipt</a>
+<a href="https://raw.githubusercontent.com/ant-7802/bestbookmarklets/main/bestbookmarklets.html" download>Download</a>
